@@ -1,7 +1,7 @@
 # Retention-Analytics-Client-Value-Insights
 
 ├── data/
-│   └── customer_churn_data.csv           # Dataset
+/n│   └── customer_churn_data.csv           # Dataset
 │
 ├── notebooks/
 │   ├── 1_data_cleaning.ipynb              # Data preprocessing
